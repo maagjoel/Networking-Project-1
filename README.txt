@@ -9,7 +9,7 @@ Language used: Java
 
 https://github.com/maagjoel/Networking-Project-1
 
-Instructions for compiling:
+Instructions for compiling and running:
 1- Go to directory where file is located.
 2- javac myftp.java
 3- java myftp REPLACEWITHSERVERNAME
